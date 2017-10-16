@@ -6,7 +6,7 @@
 
 echo "my first time trying php!";
 
-//this is me etsting the site
+//this is me testing the site
 
 
 ?>
